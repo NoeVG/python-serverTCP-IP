@@ -4,7 +4,7 @@
  ____                             _____ ____ ____   _____ ____  
 / ___|  ___ _ ____   _____ _ __  |_   _/ ___|  _ \ / /_ _|  _ \
 \___ \ / _ \ '__\ \ / / _ \ '__|   | || |   | |_) / / | || |_) |
-___) |  __/ |   \ V /  __/ |      | || |___|  __/ /  | ||  __/
+ ___) |  __/ |   \ V /  __/ |      | || |___|  __/ /  | ||  __/
 |____/ \___|_|    \_/ \___|_|      |_| \____|_| /_/  |___|_|    
 
 
@@ -20,7 +20,7 @@ _--|Great! you like UNIX systems,
 This code implement server TCP with python, attend various clients
 with python threading.
 
-## Packege necesary:
+## Required packages:
 ```
 python3 -m pip install pyfiglet
 
